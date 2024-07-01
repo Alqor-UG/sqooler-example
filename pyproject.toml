@@ -27,7 +27,7 @@ optional = true
 
 [tool.poetry.group.docs.dependencies]
 mike = "^2.0.0"
-mkdocs-material = "^9.5.12"
+mkdocs-material = "^9.5.27"
 mkdocstrings-python = "^1.8.0"
 
 [build-system]
